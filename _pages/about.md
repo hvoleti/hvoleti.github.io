@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Reconstructing my website. Please refer to my <a href="https://www.linkedin.com/in/harshithavoleti/">LinkedIn</a>
+subtitle: (reconstructing my website, please refer to my <a href="https://www.linkedin.com/in/harshithavoleti/">linkedIn</a> , thanks! :) ) 
 
 profile:
   align: right
@@ -27,9 +27,11 @@ social: true # includes social icons at the bottom of the page
 #   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am currently a Master's student in Computer Science at <a href = "https://www.concordia.ca/">Concordia University</a> , working at <a href = "https://theictlab.org/">Immersive and Creative Technologies Lab </a> with <a href = "https://poullis.org/">Prof. Dr. Charalambous Poullis </a>. My research focuses on applying deep reinforcement learning to human-computer interaction, particularly in optimizing user interface design for virtual reality. As part of the lab, I also collaborate with Think Surgical to implement computer vision algorithms, such as 3D reconstruction and registration.
+I am currently a Master's student in Computer Science at <a href = "https://www.concordia.ca/">Concordia University</a> , working at <a href = "https://theictlab.org/">Immersive and Creative Technologies Lab </a> with <a href = "https://poullis.org/">Prof. Dr. Charalambous Poullis </a>. My research focuses on applying deep reinforcement learning to human-computer interaction, specifically in optimizing user interface design for virtual reality.
 
-Before starting my graduate studies, I interned at the University of Cincinnati at <a href = "https://www.prasathlab.com/"> the Prasath Lab </a>, where my research focused on multimodal liver segmentation using deep learning models.
+Additionally, I am a researcher at Think Surgical (in collaboration with the lab), where I focus on computer vision, including 3D reconstruction and registration of medical data.
+
+Before starting my graduate studies, I interned at the University of Cincinnati at the <a href = "https://www.prasathlab.com/"> Prasath Lab </a>, with <a href = "https://www.prasathlab.com/about/members/pi"> Dr. Surya Prasath </a> where my research focused on multimodal liver segmentation using deep learning models.
 
 I completed my Bachelor's degree in Computer Science at <a href = "https://jntuh.ac.in/"> JNTUH </a>, where my undergraduate thesis focused on using BERT for emoji prediction in sentences.
 
