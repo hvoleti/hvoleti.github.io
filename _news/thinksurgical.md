@@ -5,5 +5,4 @@ inline: true
 related_posts: false
 ---
 
-
-Joined as a Computer Vision researcher with Think Surgical.
+I have joined as a Computer Vision researcher with Think Surgical.
