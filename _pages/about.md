@@ -27,7 +27,7 @@ social: true # includes social icons at the bottom of the page
 #   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am currently a Master's student in Computer Science at <a href = "https://www.concordia.ca/">Concordia University</a> , working at <a href = "https://theictlab.org/">Immersive and Creative Technologies Lab </a> with <a href = "https://poullis.org/">Prof. Dr. Charalambous Poullis </a>. My research focuses on applying deep reinforcement learning to human-computer interaction, particularly in optimizing user interface design for virtual reality. As part of the lab, I also collaborate with <a href= "https://thinksurgical.com/" >Think Surgical </a> to implement computer vision algorithms, such as 3D reconstruction and registration.
+I am currently a Master's student in Computer Science at <a href = "https://www.concordia.ca/">Concordia University</a> , working at <a href = "https://theictlab.org/">Immersive and Creative Technologies Lab </a> with <a href = "https://poullis.org/">Prof. Dr. Charalambous Poullis </a>. My research focuses on applying deep reinforcement learning to human-computer interaction, particularly in optimizing user interface design for virtual reality. As part of the lab, I also collaborate with Think Surgical to implement computer vision algorithms, such as 3D reconstruction and registration.
 
 Before starting my graduate studies, I interned at the University of Cincinnati at <a href = "https://www.prasathlab.com/"> the Prasath Lab </a>, where my research focused on multimodal liver segmentation using deep learning models.
 
