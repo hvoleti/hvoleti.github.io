@@ -1,8 +1,9 @@
 ---
+---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2025-03-21
 inline: true
-related_posts: false
+related_post: False
 ---
 
-A simple inline announcement.
+Participated in the 3MT Competition 2025 at Concordia University and made it to the <a href = "https://www.concordia.ca/news/stories/2025/03/25/meet-the-winners-of-concordia-s-2025-three-minute-thesis-competition.html">finals </a>!
