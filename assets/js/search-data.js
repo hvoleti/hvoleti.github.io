@@ -9,12 +9,12 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-blog",
-          title: "blog",
-          description: "",
+  },{id: "nav-publications",
+          title: "publications",
+          description: "coming soon :))",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/blog/";
+            window.location.href = "/publications/";
           },
         },{id: "nav-cv",
           title: "cv",
@@ -400,12 +400,7 @@ ninja.data = [{
             window.location.href = "/blog/2015/formatting-and-links/";
           
         },
-      },{id: "books-the-godfather",
-          title: 'The Godfather',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
-            },},{id: "news-started-my-master-s-in-computer-science-thesis-at-gina-cody-school-of-engineering-and-computer-science-concordia-university",
+      },{id: "news-started-my-master-s-in-computer-science-thesis-at-gina-cody-school-of-engineering-and-computer-science-concordia-university",
           title: 'Started my Master’s in Computer Science (Thesis) at Gina Cody School of Engineering...',
           description: "",
           section: "News",},{id: "news-i-have-joined-as-a-computer-vision-researcher-with-think-surgical",
