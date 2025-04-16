@@ -414,12 +414,10 @@ ninja.data = [{
           section: "News",},{id: "news-teaching-assistant-for-comp-249-object-orinted-programming-ii",
           title: 'Teaching Assistant for COMP 249 - Object Orinted Programming II',
           description: "",
-          section: "News",},{id: "news-announcement-4",
-          title: 'Announcement_4',
+          section: "News",},{id: "news-participated-in-the-3mt-competition-2025-at-concordia-university-and-made-it-to-the-finals",
+          title: 'Participated in the 3MT Competition 2025 at Concordia University and made it to...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_4/";
-            },},{id: "projects-project-1",
+          section: "News",},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
