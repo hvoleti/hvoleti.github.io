@@ -3,8 +3,8 @@ layout: page
 permalink: /publications/
 title: publications
 description: coming soon :))
-# nav: true
-# nav_order: 2
+nav: true
+nav_order: 2
 ---
 
 <!-- _pages/publications.md -->
