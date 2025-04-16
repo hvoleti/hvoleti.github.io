@@ -16,33 +16,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "nav-projects",
-          title: "projects",
-          description: "A growing collection of your cool projects.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/projects/";
-          },
-        },{id: "nav-repositories",
-          title: "repositories",
-          description: "Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/repositories/";
-          },
         },{id: "nav-cv",
           title: "cv",
           description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
-          },
-        },{id: "nav-teaching",
-          title: "teaching",
-          description: "Materials for courses you taught. Replace this text with your description.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/teaching/";
           },
         },{id: "dropdown-bookshelf",
               title: "bookshelf",
@@ -426,11 +405,6 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-announcement-1",
-          title: 'Announcement_1',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_1/";
             },},{id: "news-started-my-master-s-in-computer-science-thesis-at-gina-cody-school-of-engineering-and-computer-science-concordia-university",
           title: 'Started my Master’s in Computer Science (Thesis) at Gina Cody School of Engineering...',
           description: "",
@@ -440,7 +414,12 @@ ninja.data = [{
           section: "News",},{id: "news-teaching-assistant-for-comp-249-object-orinted-programming-ii",
           title: 'Teaching Assistant for COMP 249 - Object Orinted Programming II',
           description: "",
-          section: "News",},{id: "projects-project-1",
+          section: "News",},{id: "news-announcement-4",
+          title: 'Announcement_4',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_4/";
+            },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
