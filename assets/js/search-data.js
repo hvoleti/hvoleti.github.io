@@ -441,7 +441,7 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%76%6F%6C%65%74%69.%68%61%72%73%68%69%74%68%61@%65%78%61%6D%70%6C%65.%63%6F%6D", "_blank");
+          window.open("mailto:%68%61%72%73%68%69%74%68%61.%76%6F%6C%65%74%69@%6D%61%69%6C.%63%6F%6E%63%6F%72%64%69%61.%63%61", "_blank");
         },
       },{
         id: 'social-github',
@@ -462,7 +462,7 @@ ninja.data = [{
         title: 'X',
         section: 'Socials',
         handler: () => {
-          window.open("https://twitter.com/hvoleti", "_blank");
+          window.open("https://twitter.com/h_voleti", "_blank");
         },
       },{
       id: 'light-theme',
