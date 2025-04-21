@@ -26,7 +26,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am currently a Master's student in Computer Science at <a href = "https://www.concordia.ca/">Concordia University</a> , working at <a href = "https://theictlab.org/">Immersive and Creative Technologies Lab </a> with <a href = "https://poullis.org/">Prof. Dr. Charalambous Poullis </a>. My research focuses on applying deep reinforcement learning to human-computer interaction, specifically in optimizing user interface design for virtual reality.
+I am currently a Master's student in Computer Science at <a href = "https://www.concordia.ca/">Concordia University</a> , working at <a href = "https://theictlab.org/">Immersive and Creative Technologies Lab </a> with <a href = "https://poullis.org/">Prof. Dr. Charalambos Poullis </a>. My research focuses on applying deep reinforcement learning to human-computer interaction, specifically in optimizing user interface design for virtual reality.
 
 Additionally, I am a researcher at Think Surgical (in collaboration with the lab), where I focus on computer vision, including 3D reconstruction and registration of medical data.
 
